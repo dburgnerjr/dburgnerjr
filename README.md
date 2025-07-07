@@ -5,7 +5,7 @@
 - 💞️ I’m looking to collaborate on Java/Angular/React
 - 📫 How to reach me:  daniel.e.burgner.jr@gmail.com
 
-![Visitor Count](https://profile-counter.glitch.me/dburgnerjr/count.svg)
+![](https://komarev.com/ghpvc/?username=dburgnerjr)
 
 <!---
 dburgnerjr/dburgnerjr is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
