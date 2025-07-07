@@ -5,6 +5,8 @@
 - 💞️ I’m looking to collaborate on Java/Angular/React
 - 📫 How to reach me:  daniel.e.burgner.jr@gmail.com
 
+![Visitor Count](https://profile-counter.glitch.me/dburgnerjr/count.svg)
+
 <!---
 dburgnerjr/dburgnerjr is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
